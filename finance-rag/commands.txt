@@ -1,0 +1,2 @@
+cd C:\Users\caozq\Desktop\finance-rag
+streamlit run app.py
